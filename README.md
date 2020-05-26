@@ -2,9 +2,13 @@
 A comprehensive list of resources for CS interview
 
  https://teachyourselfcs.com/
+ 
  https://github.com/jwasham/coding-interview-university#coding-question-practice
+ 
  https://leetcode.com/problemset/all/
+ 
  https://www.pramp.com/#/
+ 
  https://online-learning.harvard.edu/course/cs50-introduction-computer-science
  https://egghead.io/courses/data-structures-and-algorithms-in-javascript
  https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/
